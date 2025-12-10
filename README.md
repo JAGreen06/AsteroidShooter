@@ -25,5 +25,13 @@ This project taught me the fundementals of Unreal Engine C++ development
 - More complex asteroid spawning
 
 # Screenshots
+Home Screen
+<img width="1715" height="922" alt="image" src="https://github.com/user-attachments/assets/641527df-eedd-4ab9-af1b-9eda0cfa6073" />
+
+Time Trial Game Mode
+<img width="1718" height="899" alt="image" src="https://github.com/user-attachments/assets/9f0a1c0e-dd70-48ea-a04a-b2e237a9a9cb" />
+
+Level 3 of the main levels
+<img width="1711" height="914" alt="image" src="https://github.com/user-attachments/assets/0b7201c0-da68-4775-bd8e-e5b10aa2dfbf" />
 
 *This is a project showcasing learning C++ development in Unreal Engine*
